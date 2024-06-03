@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **shubham-gi/shubham-gi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -34,9 +32,5 @@ full stack web developer using React Js, Node Js, Express Js, MongoDB, FastApi, 
 ---
 [![](https://visitcount.itsvg.in/api?id=shubham-gi&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
